@@ -87,7 +87,7 @@ FENCE_ENABLE,1 #0 testing phase
 FENCE_ACTION,1
 GND_EFFECT_COMP,0
 GPS_AUTO_SWITCH,0
-GPS_GNSS_MODE,0
+GPS_GNSS_MODE,93 #change as ardupilot resolve the problem of autoconfig 12_07_2024
 GPS_RATE_MS,140
 GPS_SBAS_MODE,0
 GPS_TYPE,2 #0 testing phase
