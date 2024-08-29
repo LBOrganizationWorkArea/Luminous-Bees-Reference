@@ -1,4 +1,4 @@
-#Luminous Bee 5.5
+#Luminous Bee 5.6_rev1 29/08/2024 , da aggiungere parametri PID corretti
 AHRS_GPS_USE,2 
 AHRS_ORIENTATION,12 #da verificare ancora 11/04/2024
 ANGLE_MAX,4500
